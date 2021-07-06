@@ -15,8 +15,8 @@
     <distributionManagement>
         <repository>
             <id>github</id>
-            <name>zeze.li</name>
-            <url>https://maven.pkg.github.com/zeze.li/lzz-app</url>
+            <name>GitHub OWNER Apache Maven Packages</name>
+            <url>https://maven.pkg.github.com/lizeze/lzz-app</url>
         </repository>
     </distributionManagement>
 
